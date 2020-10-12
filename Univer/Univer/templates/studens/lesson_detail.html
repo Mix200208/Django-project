@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <ul>{{lesson.name_lesson}}</ul>
+    <ul> {{lesson.number_lesson}}</ul>
+    <ul>{{lesson.adress}}</ul>
+    <ul>{%for lesson in lesson.teacher.all %}</ul>
+    <ul>{{lesson.name}}</ul>
+       {%endfor%}
+    <p><a href="{%url 'add' lesson.id %}">Оценка<p>
+    <p> <a href="{%url 'home' %}">Home page</a></p>
+
+
+</head>
+<body>
+
+</body>
+</html>

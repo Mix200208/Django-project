@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title lesson</title>
+</head>
+<body>
+   {%for lesson in lesson_list%}
+   <ul><a href="{%url 'detail' lesson.id%}">{{lesson.name_lesson}}</a></ul>
+    {%endfor%}
+
+
+</body>
+</html>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a52b52b-3307-47b3-a084-bd60f80bae99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gr0MUkX2ZQreoQ10m7F93VrGe1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Univer/Univer" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Univer/Univer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.urls">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="na" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/na.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Univer/studens" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Univer/studens/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.urls" />
+        <item itemvalue="Python.na" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a52b52b-3307-47b3-a084-bd60f80bae99" name="Default Changelist" comment="" />
+      <created>1598857356137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598857356137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599470471973">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="437" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1599470471973" />
+    <state x="464" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599466778305">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="464" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.900@0.0.1440.900" timestamp="1599466778305" />
+    <state x="404" y="211" key="DBNavigator.ConnectionFilterSettingsDialog" timestamp="1599467892539">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="404" y="211" key="DBNavigator.ConnectionFilterSettingsDialog/0.0.1440.900@0.0.1440.900" timestamp="1599467892539" />
+    <state x="544" y="178" key="DBNavigator.ConnectionInfoDialog" timestamp="1599470055262">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="544" y="178" key="DBNavigator.ConnectionInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1599470055262" />
+    <state x="258" y="112" key="DBNavigator.ProjectSettingsDialog" timestamp="1599470618963">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="DBNavigator.ProjectSettingsDialog/0.0.1440.900@0.0.1440.900" timestamp="1599470618963" />
+    <state width="1419" height="255" key="GridCell.Tab.0.bottom" timestamp="1600628139063">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="255" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1600628139063" />
+    <state width="1379" height="194" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1598857432771" />
+    <state width="1419" height="255" key="GridCell.Tab.0.center" timestamp="1600628139063">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="255" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1600628139063" />
+    <state width="1379" height="194" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1598857432769" />
+    <state width="1419" height="255" key="GridCell.Tab.0.left" timestamp="1600628139062">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="255" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1600628139062" />
+    <state width="1379" height="194" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1598857432769" />
+    <state width="1419" height="255" key="GridCell.Tab.0.right" timestamp="1600628139063">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="255" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1600628139063" />
+    <state width="1379" height="194" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1598857432770" />
+    <state width="1419" height="255" key="GridCell.Tab.1.bottom" timestamp="1600628139065">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="255" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1600628139065" />
+    <state width="1419" height="255" key="GridCell.Tab.1.center" timestamp="1600628139064">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="255" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1600628139064" />
+    <state width="1419" height="255" key="GridCell.Tab.1.left" timestamp="1600628139064">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="255" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1600628139064" />
+    <state width="1419" height="255" key="GridCell.Tab.1.right" timestamp="1600628139065">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="255" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1600628139065" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1602493684529">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602493684529" />
+    <state x="66" y="104" width="1240" height="885" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601195432030">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="66" y="104" width="1240" height="885" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1601195432030" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1602493770648">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1602493770648" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
