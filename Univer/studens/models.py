@@ -45,9 +45,6 @@ class Rate(models.Model):
     rate = models.PositiveSmallIntegerField('Оценка за предмет',default=0)
     lesson = models.ForeignKey(Lesson,verbose_name="Урок", on_delete=models.CASCADE)
 
-
-
-
     def __str__(self):
         return f"{self.lesson} - {self.rate}"
     class Meta:

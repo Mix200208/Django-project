@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a52b52b-3307-47b3-a084-bd60f80bae99" name="Default Changelist" comment="" />
+    <list default="true" id="6a52b52b-3307-47b3-a084-bd60f80bae99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Univer/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Univer/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Univer/studens/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Univer/studens/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Univer/studens/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Univer/studens/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Univer/studens/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Univer/studens/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +40,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gr0MUkX2ZQreoQ10m7F93VrGe1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +52,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Univer/Univer" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -113,6 +143,20 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="437" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599470471973">
       <screen x="0" y="0" width="1440" height="900" />
@@ -134,24 +178,36 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="258" y="112" key="DBNavigator.ProjectSettingsDialog/0.0.1440.900@0.0.1440.900" timestamp="1599470618963" />
-    <state width="1419" height="255" key="GridCell.Tab.0.bottom" timestamp="1600628139063">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state x="575" y="354" key="Github.ShareDialog" timestamp="1602495621504">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="575" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1602495621504" />
+    <state x="459" y="155" key="Github.UntrackedFilesDialog" timestamp="1602495637800">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="459" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602495637800" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1602682043160">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602682043160" />
     <state width="1419" height="255" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1600628139063" />
     <state width="1379" height="194" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1598857432771" />
-    <state width="1419" height="255" key="GridCell.Tab.0.center" timestamp="1600628139063">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1602682043158">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602682043158" />
     <state width="1419" height="255" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1600628139063" />
     <state width="1379" height="194" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1598857432769" />
-    <state width="1419" height="255" key="GridCell.Tab.0.left" timestamp="1600628139062">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1602682043156">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602682043156" />
     <state width="1419" height="255" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1600628139062" />
     <state width="1379" height="194" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1598857432769" />
-    <state width="1419" height="255" key="GridCell.Tab.0.right" timestamp="1600628139063">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1602682043159">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602682043159" />
     <state width="1419" height="255" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1600628139063" />
     <state width="1379" height="194" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1598857432770" />
     <state width="1419" height="255" key="GridCell.Tab.1.bottom" timestamp="1600628139065">
@@ -174,10 +230,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602493684529" />
-    <state x="66" y="104" width="1240" height="885" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601195432030">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1602682499547">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602682499547" />
+    <state x="66" y="0" width="1240" height="900" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602496373819">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="66" y="104" width="1240" height="885" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1601195432030" />
+    <state x="66" y="0" width="1240" height="900" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1602496373819" />
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602682728976">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1602682728976" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1602493770648">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

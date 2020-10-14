@@ -27,7 +27,7 @@ class LessonDetailViews(DetailView):
 class NewRateAdd(DetailView):
     model = Rate
     # указываем поле,по которому нужно искать запись
-    slug_field = "id"
+    slug_field = "lesson_id"
     context_object_name = "rate"
     template_name = "studens/add_rate.html"
 
