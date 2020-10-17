@@ -3,6 +3,7 @@ from django.views.generic.base import View
 from django.views.generic import ListView, DetailView
 from .models import Lesson, Rate
 from .forms import RateLesson
+from .services import change_rate
 
 
 # Create your views here.
@@ -44,10 +45,8 @@ class AddRate(View):
         # Значение из формы"
         if form.is_valid():
             form = form.save(commit=False)
-            number = int(request.POST.get("rate"))
-            rate.rate = number
-            form.lesson = rate.lesson
-            rate.save()
+            change_rate(request.POST.get("rate"),rate,form)
+
 
         return redirect("/")
 
