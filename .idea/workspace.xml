@@ -151,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602956939442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="slug for rate">
+      <created>1602957117439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602957117439</updated>
+    </task>
+    <task id="LOCAL-00004" summary="slug for rate">
+      <created>1604254895382</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604254895382</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,18 +253,22 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1419" height="255" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1600628139065" />
+    <state x="483" y="159" key="RollbackChangesDialog" timestamp="1604254592277">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="159" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1604254592277" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1602493684529">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602493684529" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1602682998894">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1602957187074">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602682998894" />
-    <state x="66" y="0" width="1240" height="900" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602496373819">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602957187074" />
+    <state x="66" y="0" width="1240" height="900" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604254906980">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="66" y="0" width="1240" height="900" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1602496373819" />
+    <state x="66" y="0" width="1240" height="900" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1604254906980" />
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602682728976">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
