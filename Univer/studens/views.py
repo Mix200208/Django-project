@@ -8,21 +8,19 @@ from .services import change_rate
 
 # Create your views here.
 
-
 class LessonViews(ListView):
-    # Список уроков"
+    # Список уроков.
     model = Lesson
     lessons = Lesson.objects.all()
 
+
 class LessonDetailViews(DetailView):
-     # описания урока'
+    # описание урока
      model = Lesson
-     # указываем поле,по которому нужно искать запись
-
      slug_field = "id"
-
-     '''Нет необходимости писать имя шаблона,потому что джанго по имени модели подставляет _detail(суфикс) и находит
-     необходимый шаблон.Работает,когда имя шаблона подходит под суффикс наследуемого класса.ListView - (_list)'''
+# указываем поле,по которому нужно искать запись.
+# джанго по имени модели подставляет _detail(суфикс) и находит необходимый шаблон.
+# Работает,когда имя шаблона подходит под суффикс наследуемого класса.ListView - (_list)
 
 
 class NewRateAdd(DetailView):
@@ -32,24 +30,15 @@ class NewRateAdd(DetailView):
     context_object_name = "rate"
     template_name = "studens/add_rate.html"
 
+# Добавление Оценки
 
-
-"Добавление Оценки"
 class AddRate(View):
-
-    def post(self,request,pk):
+    def post(self, request, pk):
         print(request.POST)
         form = RateLesson(request.POST)
         rate = Rate.objects.get(id=pk)
-
-        # Значение из формы"
+        # Значение из формы и изменение рейтинга"
         if form.is_valid():
             form = form.save(commit=False)
-            change_rate(request.POST.get("rate"),rate,form)
-
-
+            change_rate(request.POST.get("rate"), rate, form)
         return redirect("/")
-
-
-
-
