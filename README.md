@@ -16,7 +16,7 @@ It's pet project for education
   <li>Development language - <a href = "https://www.python.org">Python</a></li>
   <li>Development tool - <a href = "https://www.jetbrains.com/ru-ru/pycharm/">PyCharm CE</a></li>
   <li>Framework - <a href = "https://www.djangoproject.com">Django</a></li>
-  <li>Database -  <a href = "https://www.sqlite.org/index.html">SQLLite3</a></li>
+  <li>Database -  <a href = "https://www.sqlite.org/index.html">SQLite3</a></li>
 </ul>
 
 
